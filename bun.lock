@@ -5,11 +5,11 @@
     "": {
       "name": "ws-tunnel",
       "dependencies": {
+        "@types/ws": "^8.18.2",
         "ws": "^8.23.0",
       },
       "devDependencies": {
         "@types/bun": "latest",
-        "@types/ws": "^8.18.2",
         "typescript": "^5",
       },
     },
